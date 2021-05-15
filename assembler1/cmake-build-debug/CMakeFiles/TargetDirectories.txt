@@ -1,3 +1,0 @@
-/home/katerina/CLionProjects/apps_parametry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/katerina/CLionProjects/apps_parametry/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/katerina/CLionProjects/apps_parametry/cmake-build-debug/CMakeFiles/c-main.dir

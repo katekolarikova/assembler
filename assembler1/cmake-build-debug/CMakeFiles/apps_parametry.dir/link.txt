@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/apps_parametry.dir/main.c.o  -o apps_parametry 

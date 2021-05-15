@@ -1,3 +1,0 @@
-/home/katerina/CLionProjects/asm_preparation_lok_promene/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/katerina/CLionProjects/asm_preparation_lok_promene/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/katerina/CLionProjects/asm_preparation_lok_promene/cmake-build-debug/CMakeFiles/c-main.dir

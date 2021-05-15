@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/asm_preparation_lok_promene.dir/main.c.o  -o asm_preparation_lok_promene 
