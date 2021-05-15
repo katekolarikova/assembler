@@ -1,0 +1,1 @@
+/usr/bin/cc  -no-pie -g   CMakeFiles/c-main.dir/c-main.c.o CMakeFiles/c-main.dir/asm-module.asm.o  -o c-main 
